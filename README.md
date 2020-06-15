@@ -21,7 +21,7 @@ This experiment introduces implementation of state machines on CPLDs. The CPLD i
 This experiment introduces implementation of sequence generators with CPLDs. The CPLD is used to realize a 7-bit wide, 4-word "left shift" register and a Johnson counter to implement a scrolling display on the 7-segment displays. 
 
 - **Lab11: Digital Combinational Lock with Pseudo-Random Combination**<br/>
-This experiment implements a sequence recognizer. The ispMACH 4256ZE Development Board is used to implement an 7-bit linear feedback shift-register to generate a pseudo-random sequence. The CPLD is also used to realize a 3-bit synchronously resettable binary up counter with a 3:8 decoder.
+This experiment implements a sequence recognizer. The ispMACH 4256ZE Development Board is used to implement a 7-bit linear feedback shift-register to generate a pseudo-random sequence. The CPLD is also used to realize a 3-bit synchronously resettable binary up counter with a 3:8 decoder.
 
 - **Lab12: The “Non-Elite Academic Exercise” Game -or- The Radix Price is Right!**<br/>
 This experiment uses the ispMACH 4256ZE Development Board to implement a game using arithmetic circuits. This experiment implements a linear feedback shift register, a 4-bit adder/subtractor, a magnitude comparator, a 4-bit binary "round counter", a BCD full-adder, and a two-digit BCD adder.
